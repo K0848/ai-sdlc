@@ -1,6 +1,6 @@
-# AI 产品研发工具包
+# AI SDLC
 
-**AI Product Development Toolkit** · 从产品判断到研发质量闭环，再到持续规划与交接恢复。
+**AI 辅助研发工作流** · 从产品判断到研发质量闭环，再到持续规划与交接恢复。
 
 面向使用 AI 编程工具推进产品开发的产品经理与开发者，汇集产品指南、质量闭环 Skill 和文件规划 Skill。将需求评审、架构审查、实现反馈与测试验收组织成可复用工作流，以实际证据判断交付状态。
 
@@ -12,7 +12,7 @@
 | AI 产品质量闭环 Skill | 组织需求、架构、测试准备和实现交付四个质量门 | [ai-product-quality-loop](skills/ai-product-quality-loop/SKILL.md) |
 | 文件规划 Skill | 用持久化 Markdown 管理计划、当前状态、证据和交接恢复 | [planning-with-files-zh](skills/planning-with-files-zh/SKILL.md) |
 
-仓库名称统一为 `ai-product-dev-toolkit`；两个 Skill 保留独立调用名，产品指南作为参考文档，不伪装成第三个 Skill。规划组件基于文件规划模式进行了中文化与本地规则适配；这里展示的是个人沉淀与组合，不宣称所有方法均为原创。
+仓库名称统一为 `ai-sdlc`；两个 Skill 保留独立调用名，产品指南作为参考文档，不伪装成第三个 Skill。规划组件基于文件规划模式进行了中文化与本地规则适配；这里展示的是个人沉淀与组合，不宣称所有方法均为原创。
 
 ## 如何协同
 
