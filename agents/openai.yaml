@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 产品质量门与实现闭环"
+  short_description: "按 Q1 需求、Q2 架构、Q3 测试、Q4 实现推进交付"
+  default_prompt: "使用 $ai-product-quality-loop 从当前未通过的质量门开始；按 Q1 需求、Q2 架构、Q3 测试或 Q4 实现模式继续。"
+
+policy:
+  allow_implicit_invocation: false
